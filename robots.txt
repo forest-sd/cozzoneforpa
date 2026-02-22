@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cozzoneforpa.pages.dev/sitemap.xml
+Sitemap: https://cozzoneforpa.com/sitemap.xml
