@@ -26,4 +26,10 @@
   <url><loc>https://cozzoneforpa.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://cozzoneforpa.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://cozzoneforpa.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://cozzoneforpa.com/posts/building-stronger-communities-grassroots-leadership-pennsylvania/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
